@@ -13,7 +13,7 @@ Antes de executar o banco de dados localmente, certifique-se de ter as seguintes
 A ordem correta para o funcionamento é:
 
 * <a href="./scripts/biblioteca-real.sql">biblioteca-real</a>
-* <a href="./scripts/insercoes-de-arquivos.sql">insercoes-de-arquivos</a>
+* <a href="./scripts/insercao-de-arquivos.sql">insercoes-de-arquivos</a>
 
 ## 🗺️Estrutura do Banco de Dados:
 O banco de dados da biblioteca é composto pelas seguintes tabelas:
